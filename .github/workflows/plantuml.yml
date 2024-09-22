@@ -35,3 +35,4 @@ jobs:
         git commit -m "Automated diagram generation"
         git push origin main
       if: success()
+      
